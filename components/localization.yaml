@@ -7,7 +7,7 @@ spec:
   interval: 5m
   sourceRef:
     kind: Resource
-    name: podinfo-deployment # this is the podinfo deployment manifest resource we created previously
+    name: podinfo-deployment
   configRef:
     kind: ComponentVersion
     name: podinfo

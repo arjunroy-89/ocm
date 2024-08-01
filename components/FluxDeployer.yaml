@@ -8,7 +8,7 @@ spec:
     kind: Localization
     name: podinfo-deployment
   kustomizationTemplate:
-    interval: 1m
+    interval: 1m0s
     path: ./
     prune: true
     targetNamespace: default
