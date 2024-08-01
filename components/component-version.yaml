@@ -9,5 +9,5 @@ spec:
   version:
     semver: ">=v6.3.5"
   repository:
-    url: ghcr.io/arjunroy-89/air-gapped
+    url: ghcr.io/arjunroy-89
   serviceAccountName: air-gapped-ops
